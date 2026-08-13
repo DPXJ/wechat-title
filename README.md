@@ -2,7 +2,7 @@
 
 # Title.skill
 ---
-A Skill purpose-built for titling new-media articles.<br>
+A Skill purpose-built for titling new-media articles.
 **Writing patterns hand-picked from 100+ viral articles — not clickbait tricks.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)[![Type](https://img.shields.io/badge/Type-Agent%20Skill-success)](./SKILL.md)[![Corpus](https://img.shields.io/badge/Corpus-TOP50%20Titles-orange)](./references/corpus.md)
