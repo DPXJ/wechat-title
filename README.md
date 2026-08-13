@@ -1,4 +1,5 @@
 <div align="center">
+
 # Title.skill
 A Skill purpose-built for titling new-media articles.<br>
 **Writing patterns hand-picked from 100+ viral articles — not clickbait tricks.**
