@@ -1,14 +1,13 @@
 <div align="center">
 
 # 标题.skill
----
-一款专门给新媒体文章取标题的Skill。
+一款专门给新媒体文章取标题的Skill。<br>
 **从100+爆款文章精挑细选的写作思路，不是标题党套路。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)[![类型](https://img.shields.io/badge/Type-Agent%20Skill-success)](./SKILL.md)[![语料](https://img.shields.io/badge/Corpus-TOP50%20Titles-orange)](./references/corpus.md)
 
 <p align="center">
-  <a href="./README.md" style="display:inline-block;padding:6px 18px;background:#f3f4f6;color:#4b5563;border-radius:6px 0 0 6px;text-decoration:none;font-weight:600;">English</a><a href="./README.zh.md" style="display:inline-block;padding:6px 18px;background:#4f46e5;color:#fff;border-radius:0 6px 6px 0;text-decoration:none;font-weight:600;">简体中文</a>
+  <a href="./README.md" style="display:inline-block;padding:6px 18px;background:#f3f4f6;color:#4b5563;border-radius:6px 0 0 6px;text-decoration:none;font-weight:600;">English</a> <a href="./README.zh.md" style="display:inline-block;padding:6px 18px;background:#4f46e5;color:#fff;border-radius:0 6px 6px 0;text-decoration:none;font-weight:600;">简体中文</a>
 </p>
 
 </div>
