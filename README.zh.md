@@ -15,7 +15,7 @@
 <p align="center">
   <img src="public/产品图.png" width="100%" alt="lengyi-title 产品介绍图" />
 </p>
-<br>
+
 ---
 
 ## 🌟 为什么做这个 Skill？
