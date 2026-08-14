@@ -1,10 +1,10 @@
 <div align="center">
 
-# 标题.skill
+# 公众号起标题
 一款专门给新媒体文章取标题的Skill。<br>
 **从100+爆款文章精挑细选的写作思路，不是标题党套路。**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)[![类型](https://img.shields.io/badge/Type-Agent%20Skill-success)](./SKILL.md)[![语料](https://img.shields.io/badge/Corpus-TOP50%20Titles-orange)](./references/corpus.md)
+[![类型](https://img.shields.io/badge/Type-Agent%20Skill-success)](./SKILL.md) [![语料](https://img.shields.io/badge/Corpus-TOP50%20Titles-orange)](./references/corpus.md)
 
 <p align="center">
   <a href="./README.md" style="display:inline-block;padding:6px 18px;background:#f3f4f6;color:#4b5563;border-radius:6px 0 0 6px;text-decoration:none;font-weight:600;">English</a> <a href="./README.zh.md" style="display:inline-block;padding:6px 18px;background:#4f46e5;color:#fff;border-radius:0 6px 6px 0;text-decoration:none;font-weight:600;">简体中文</a>
@@ -13,12 +13,14 @@
 </div>
 
 <p align="center">
-  <img src="public/产品图.png" width="100%" alt="lengyi-title 产品介绍图" />
+  <img src="public/产品图.png" width="100%" alt="公众号起标题产品介绍图" />
 </p>
 
 ---
 
 ## 🌟 为什么做这个 Skill？
+
+> 本仓库由 [woyin2024/lengyi-title](https://github.com/woyin2024/lengyi-title) Fork 并更名，核心方法与语料归原作者冷逸所有。
 
 写过公众号的朋友都知道：**文章写得再好，标题不行，就是没人点开。**
 
@@ -119,9 +121,9 @@
 
 ```
 # 克隆仓库
-git clone https://github.com/woyin2024/lengyi-title.git
+git clone https://github.com/DPXJ/wechat-title.git
 ```
-将整个 `lengyi-title` 文件夹放入你 Agent 的 Skills 目录：
+将整个 `wechat-title` 文件夹放入你 Agent 的 Skills 目录：
 -  **Claude Code 路径**：`C:\Users\Administrator\.claude\skills`
 - **Codex 路径**：`C:\Users\Administrator\.codex\skills`
 - **WorkBuddy 路径**：`~/.workbuddy/skills`
@@ -135,18 +137,16 @@ git clone https://github.com/woyin2024/lengyi-title.git
 “帮这篇文章起几个公众号标题：[粘贴正文]”
 “这个标题帮我优化一下：[旧标题]"”
 “我想写一篇豆包隐藏玩法的清单文，主要是涨粉，帮我想几个题目”
-“用lengyi-title skill给这篇文章起标题”
+“用公众号起标题 skill 给这篇文章起标题”
 ```
 
 Agent 会自动加载 Skill，按「定目标 → 选范式 → 硬规则打磨 → 自检」的流程输出 6-8 个候选。
 
 ---
 
-## 📜 开源协议
+## 📜 来源与授权
 
-本项目基于 [MIT License](LICENSE) 开源。
-
-你可以自由使用、修改、分发，如需商用请获取授权（微信lengcp2013）。只希望你的下一篇 10w+，是从这里起的标题。
+本仓库是 [woyin2024/lengyi-title](https://github.com/woyin2024/lengyi-title) 的更名 Fork，保留 GitHub 上游关系和原作者署名。使用、修改、分发或商用时，请遵循上游仓库的授权说明；商用授权可联系原作者（微信：lengcp2013）。
 
 ---
 

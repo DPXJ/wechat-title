@@ -1,10 +1,10 @@
 <div align="center">
 
-# Title.skill
+# WeChat Title
 A Skill purpose-built for titling new-media articles.<br>
 **Writing patterns hand-picked from 100+ viral articles — not clickbait tricks.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)[![Type](https://img.shields.io/badge/Type-Agent%20Skill-success)](./SKILL.md)[![Corpus](https://img.shields.io/badge/Corpus-TOP50%20Titles-orange)](./references/corpus.md)
+[![Type](https://img.shields.io/badge/Type-Agent%20Skill-success)](./SKILL.md) [![Corpus](https://img.shields.io/badge/Corpus-TOP50%20Titles-orange)](./references/corpus.md)
 
 <p align="center">
   <a href="./README.md" style="display:inline-block;padding:6px 18px;background:#4f46e5;color:#fff;border-radius:6px 0 0 6px;text-decoration:none;font-weight:600;">English</a> <a href="./README.zh.md" style="display:inline-block;padding:6px 18px;background:#f3f4f6;color:#4b5563;border-radius:0 6px 6px 0;text-decoration:none;font-weight:600;">简体中文</a>
@@ -19,6 +19,8 @@ A Skill purpose-built for titling new-media articles.<br>
 ---
 
 ## 🌟 Why this Skill?
+
+> This repository is a renamed fork of [woyin2024/lengyi-title](https://github.com/woyin2024/lengyi-title). The core methodology and corpus remain credited to the original author, Lengyi.
 
 Anyone who writes for WeChat knows the brutal truth: **great content with a weak title gets zero clicks.**
 
@@ -119,10 +121,10 @@ Every paradigm is induced from the corpus and annotated with real examples:
 
 ```
 # Clone the repository
-git clone https://github.com/woyin2024/lengyi-title.git
+git clone https://github.com/DPXJ/wechat-title.git
 ```
 
-Put the whole `lengyi-title` folder into your agent's Skills directory:
+Put the whole `wechat-title` folder into your agent's Skills directory:
 - **Claude Code**: `C:\Users\Administrator\.claude\skills`
 - **Codex**: `C:\Users\Administrator\.codex\skills`
 - **WorkBuddy**: `~/.workbuddy/skills`
@@ -136,18 +138,16 @@ No rules to memorize. Just ask in natural language:
 "Help me title this WeChat article: [paste the draft]"
 "Optimize this title for me: [old title]"
 "I'm writing a listicle about hidden Doubao tricks, mainly for follower growth — give me a few titles"
-"Use the lengyi-title skill to title this article"
+"Use the wechat-title skill to title this article"
 ```
 
 The agent loads the Skill automatically and outputs 6-8 candidates following the workflow: set goal → pick paradigms → apply hard rules → self-check.
 
 ---
 
-## 📜 License
+## 📜 Source and authorization
 
-This project is open-sourced under the [MIT License](LICENSE).
-
-Free to use, modify and distribute; for commercial use please obtain authorization (WeChat: lengcp2013). May your next 100K-read article start with a title from here.
+This repository is a renamed fork of [woyin2024/lengyi-title](https://github.com/woyin2024/lengyi-title), preserving the GitHub upstream relationship and original author attribution. For use, modification, distribution, or commercial licensing, follow the upstream repository's authorization terms; contact the original author on WeChat (`lengcp2013`) for commercial authorization.
 
 ---
 
